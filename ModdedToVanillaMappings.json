@@ -2,7 +2,7 @@
   "dinoMappings": [
     {
       "fromClass": "/CravingRhynio/Rhynio_Character_BP_CravingChange.Rhynio_Character_BP_CravingChange",
-      "toClass": "/Game/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP"
+      "toClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C"
     },
     {
       "fromClass": "/AACeratosaurus/Dinos/CeratosaurusAA_Character_BP.CeratosaurusAA_Character_BP",
